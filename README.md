@@ -1,4 +1,4 @@
-[![Masterhead]([https://www.linkedin.com/in/emrullah-akda%C4%9F-b06952274/overlay/background-image/](https://avatars.githubusercontent.com/u/101724916?v=4))
+![Masterhead](https://uploads-ssl.webflow.com/6377bf360873283fad488724/638ca82a95fb434e6f42a283_Flutter-p-1080.png)
 
 
 <h1 align="center">Hi 👋, I'm Emrullah</h1>
