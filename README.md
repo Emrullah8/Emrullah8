@@ -1,3 +1,5 @@
+
+
 ![Masterhead](https://uploads-ssl.webflow.com/6377bf360873283fad488724/638ca82a95fb434e6f42a283_Flutter-p-1080.png)
 
 
@@ -13,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emrullah-akdağ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrullah-akdağ" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uctnkxujg9l05xxsaa_mnxrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctnkxujg9l05xxsaa_mnxrw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTNkxuJG9L05XxSAA_mNXrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctnkxujg9l05xxsaa_mnxrw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
