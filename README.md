@@ -1,7 +1,6 @@
 
 
 ![Masterhead](https://uploads-ssl.webflow.com/6377bf360873283fad488724/638ca82a95fb434e6f42a283_Flutter-p-1080.png)
-![Masterhead](<iframe src="https://giphy.com/embed/gLcUG7QiR0jpMzoNUu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cool-okay-hacker-gLcUG7QiR0jpMzoNUu">via GIPHY</a></p>)
 
 
 
