@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Dart**
 
-- 📫 How to reach me **emrullahakdag88@gmail.com**
+- 📫 How to reach me **emrullahakdagg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
